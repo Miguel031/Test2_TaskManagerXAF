@@ -6,7 +6,10 @@ La solucion es un proyecto tipo DevExpress XAF Template Gallery que trabaja con 
 Necesitas tener microsoft sql server instalado, ya que si utilizas otro, la configuracion debera cambiar.
 Necesitas modificar el connection string en appsettings.js y en Test2_TaskManagerDbContext, se ubican en Blazor.Server y en .Module respectivamente
 
-## Instalación
+# Investigacion
+Enlace del document de investigacion: https://docs.google.com/document/d/1aruGewZJf54gWxJ5lEfAYUz6SMhwahPfnrzrH3j-h8A/edit?usp=sharing
+
+# Instalación
 
 Solo se necesita tener .net 8 instalado.
 Puedes clonar la aplicacion directamente desde GitHub o descargar un archivo .zip y descomprimirlo.
